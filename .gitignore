@@ -1,0 +1,16 @@
+.env
+
+chat/
+venv/
+.venv/
+env/
+
+node_modules/
+dist/
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+*.log
